@@ -1,4 +1,4 @@
-# BT4222_Project
+# Youtube Title Analysis Using Machine Learning
 
 Order
 1. YouTube Data Scraping.ipynb
