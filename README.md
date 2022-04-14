@@ -1,4 +1,4 @@
-# Youtube Title Analysis Using Machine Learning
+# Youtube Title Analysis
 
 Order
 1. YouTube Data Scraping.ipynb
